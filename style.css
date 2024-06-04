@@ -341,7 +341,7 @@ section {
     url("img/cta.webp");
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+
 }
 
 .cta-content h2 {

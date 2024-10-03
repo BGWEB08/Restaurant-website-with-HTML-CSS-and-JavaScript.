@@ -4,10 +4,9 @@ This project is a basic **Restaurant Website** showcasing a visually appealing h
 
 ## Features
 
-- **Home Page:** A landing page with a feature image and a brief restaurant introduction.
 - **Responsive Design:** Ensures optimal viewing on all devices (desktop, tablet, and mobile).
 - **Minimalist Layout:** Focused on visual presentation without additional functionality.
 
 ## Demo
 
-![Restaurant Home Page Screenshot](https://github.com/yourusername/restaurant-homepage/blob/main/demo-screenshot.png?raw=true)
+![Restaurant Website Image]([https://github.com/yourusername/restaurant-homepage/blob/main/demo-screenshot.png?raw=true](https://github.com/BGWEB08/README.md-IMAGES/blob/main/Web%20Design/Restaurant%20Website/restaurant-website-img.png?raw=true))

@@ -9,4 +9,4 @@ This project is a basic **Restaurant Website** showcasing a visually appealing h
 
 ## Demo
 
-![Restaurant Website Image]([https://github.com/yourusername/restaurant-homepage/blob/main/demo-screenshot.png?raw=true](https://github.com/BGWEB08/README.md-IMAGES/blob/main/Web%20Design/Restaurant%20Website/restaurant-website-img.png?raw=true))
+![Restaurant Website Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/Web%20Design/Restaurant%20Website/restaurant-website-img.png?raw=true))
